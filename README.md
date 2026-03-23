@@ -1,4 +1,4 @@
-# 🧑‍💻 Person Management System
+# Person Management System
 
 A full-stack web application for managing people records, built with **React**, **Node.js (Express)**, and **PostgreSQL**, fully containerized using **Docker Compose**.
 
