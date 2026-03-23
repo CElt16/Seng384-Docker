@@ -45,8 +45,8 @@ A full-stack web application for managing people records, built with **React**, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/CElt16/Seng384-Docker.git
+cd Seng384-Docker
 ```
 
 ---
